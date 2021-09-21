@@ -10,3 +10,17 @@
 A bit about Myself, I am <b>Garima Bisht</b> pursuing a <b> Degree in Masters of Computer Applications</b> from Graphic Era Hill University, Haldwani. As of now, I am focused on <b>Python and Web Development</b> but wish to explore many fields. ⚡
 
   
+<h1 align="center">Tech-Stack</h1>
+
+I have knowledge of HTML,CSS , Javascript, Php and Mysql. Beside that I am also learning Python and also has basic knowledge of C , Java. I also know how to use vscode for doing contribution on github and also learning git.
+
+<p align="center"> 
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
+   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+ <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="Php" src="https://img.shields.io/badge/-php-%8A5BE2.svg?&style=for-the-badge&logo=php&logoColor=white" "/>
+ <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+ <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+</p>
+                                                                                                                                           
