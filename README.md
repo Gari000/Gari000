@@ -24,3 +24,30 @@ I have knowledge of HTML,CSS , Javascript, Php and Mysql. Beside that I am also 
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </p>
                                                                                                                                            
+<hr>
+
+<h1 align="center">Communication - the human connection - is the key to personal and success !</h1>
+
+<h1 align="center">Let's Get Connected</h1>
+
+<div align="center">
+
+
+<a  href="https://www.linkedin.com/in/garima-bisht-7b784014b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:garima25081999@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+</div>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Gari000&show_icons=true&theme=dark&locale=en" alt="Gari000" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gari000&show_icons=true&theme=dark&locale=en&layout=compact" alt="Gari000" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gari000&theme=dark" alt="Garima Bisht" /></p>
+  </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gari000&label=Profile%20views&color=6805D3&style=flat" alt="Garima Bisht" /> </p>
+   <div align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Gari000&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
