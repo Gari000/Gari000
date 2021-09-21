@@ -40,14 +40,14 @@ I have knowledge of HTML,CSS , Javascript, Php and Mysql. Beside that I am also 
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Gari000&show_icons=true&theme=dark&locale=en" alt="Gari000" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gari000&show_icons=true&theme=dark&locale=en&layout=compact" alt="Gari000" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=GariBisht&show_icons=true&theme=dark&locale=en" alt="GariBisht" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=GariBisht&show_icons=true&theme=dark&locale=en&layout=compact" alt="GariBisht" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gari000&theme=dark" alt="Garima Bisht" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GariBisht&theme=dark" alt="Garima Bisht" /></p>
   </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gari000&label=Profile%20views&color=6805D3&style=flat" alt="Garima Bisht" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GariBisht&label=Profile%20views&color=6805D3&style=flat" alt="Garima Bisht" /> </p>
    <div align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Gari000&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+ <img src="https://activity-graph.herokuapp.com/graph?username=GariBisht&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
