@@ -6,7 +6,14 @@ A bit about Myself, I am <b>Garima Bisht</b> I am Software Developer </b> As of 
   
 <h1 align="center">Tech-Stack</h1>
 
-I know in FrontEnd - HTML, CSS,Javascript,TypeScript  Framework- Angular,Next js Library - React ,RXJS. Database - phpmyadmin , pgadmin , postgresql and Mysql in Backend - Node js , python django framework  Beside that  I also have knowledge of asynchronous store management system (Redux,Flux) & many more different libraries, packages for different functionality outcomes and want to explore more.
+I am keen into
+In Technology Expertise: Skilled in utilizing Adobe Creative Suite, including Photoshop, Illustrator, and InDesign.
+In FrontEnd: HTML, CSS,Javascript,TypeScript 
+In Framework: Angular,Next js  In Library - React ,RXJS.
+In Database: phpmyadmin , pgadmin , postgresql and Mysql 
+In Backend: Node js , Python django framework  
+Beside that I also have knowledge of asynchronous store management system (Redux,Flux) & many more different libraries, packages for different functionality outcomes and want to explore more.
+
 
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=gari000.visitor-badge"</p>
 
