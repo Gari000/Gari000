@@ -6,7 +6,7 @@ A bit about Myself, I am <b>Garima Bisht</b> I am Software Developer </b> As of 
   
 <h1 align="center">Tech-Stack</h1>
 
-I am keen into <hr>
+I am keen into
 In Technology Expertise: Skilled in utilizing Adobe Creative Suite, including Photoshop, Illustrator, and InDesign.
 In FrontEnd: HTML, CSS,Javascript,TypeScript 
 In Framework: Laravel ,Angular,Next js. In Library - React ,Rxjs.
