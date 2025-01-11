@@ -1,5 +1,5 @@
-<img src="https://github.com/erikaheidi/erikaheidi/blob/main/erika_illustrated_avatar.png" align="right">
-
+    <img src="https://github.com/erikaheidi/erikaheidi/blob/main/erika_illustrated_avatar.png" align="right">
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/3vBq5x7/garima-avatar.png" alt="garima-avatar" border="0"/></a>
 ### Hi there 👋
 A bit about Myself, I am <b>Garima Bisht</b> I am Software Developer </b> As of now, I am focused & exploring on <b> MEAN/MERN Full Stack Development</b> & want to explore many fields in that ⚡
 
